@@ -16,8 +16,7 @@ to allow executing the binary as a executable.
 ## Python3
 If you already have python installed on your OS, you can run it as a base .py file (with some requirements)
 Requirements (python packages):
-1. sv_ttk
-\\\\\\\\\\\\\\\\\\\\\\\\
+- sv_ttk
 1. Download the .py file
 2. Type this into your terminal at the directory where the .py is
    `python3 main.py`
