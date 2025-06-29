@@ -23,6 +23,7 @@ Requirements (python packages):
 # Contribute
 The easiest way to contribute is to:
 - provide windows/macos binaries
+
 To do this, you must have python3, sv_ttk, tkinter and pyinstaller installed:
 1. Download main.py
 2. In the directory of the .py file, type:
