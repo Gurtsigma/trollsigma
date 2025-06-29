@@ -1,5 +1,7 @@
 # trollsigma
 The worst text editor.
+
+![alt text](trollsigma.png "trollsigma")
 # Features
  - Basic write/save/save as/open
  - Word count
