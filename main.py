@@ -11,6 +11,7 @@ from tkinter import colorchooser
 from tkinter import font
 import os
 global acord
+# long garabge string of code, doesnt even have formatting which would've been easier on pyqt
 root = t.Tk()
 root.option_add('*font', 'Arial 10')
 sv_ttk.set_theme("dark")
