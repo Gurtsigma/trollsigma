@@ -23,7 +23,7 @@ def count():
     wor = cos.split()
     word = len(wor)
     acord.set(f"Words: {word}")
-    root.after(500, count)
+    root.after(300, count)
 def save(event=None):
     global txt
     global tefxt
