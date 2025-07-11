@@ -17,6 +17,7 @@ A binary ('Trollsigma') is provided, you may have to modify permissions
 to allow executing the binary as a executable.
 ## Python3
 If you already have python installed on your OS, you can run it as a base .py file (with some requirements)
+
 Requirements (python packages):
 - sv_ttk
 1. Download the .py file
